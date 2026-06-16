@@ -1,4 +1,4 @@
-IF YOU HAVE ISSUES WITH VIBE-CODING, THIS WAS 100% MADE WITH CLAUDE
+# IF YOU HAVE ISSUES WITH VIBE-CODING, THIS WAS 100% MADE WITH CLAUDE
 
 You can either download the whole repo or just BereventSpellCodex.exe. If you download the whole repo you can build the .exe yourself using build.bat if you have python installed to PATH.
 
