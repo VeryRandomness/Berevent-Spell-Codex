@@ -1,3 +1,5 @@
+IF YOU HAVE ISSUES WITH VIBE-CODING, THIS WAS 100% MADE WITH CLAUDE
+
 BEREVENT SPELL CODEX  -  standalone player app
 ================================================
 
